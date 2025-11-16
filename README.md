@@ -47,10 +47,11 @@
 ## 💰 Donate
 If you like my work and want to support me:
 
-[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)](#)
-[![Litecoin](https://img.shields.io/badge/Litecoin-345D9D?style=for-the-badge&logo=litecoin&logoColor=white)](#)
+
+
 
 **Bitcoin Cash (BCH):**  
+[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)](#)
 ```
 
 bitcoincash:qz9ve57vmyjhsqp4g8jqmu42p990r0vajyk3m55kjn
@@ -58,11 +59,31 @@ bitcoincash:qz9ve57vmyjhsqp4g8jqmu42p990r0vajyk3m55kjn
 ```
 
 **Litecoin (LTC):**  
-
+[![Litecoin](https://img.shields.io/badge/Litecoin-345D9D?style=for-the-badge&logo=litecoin&logoColor=white)](#)
 
 ```
 
 ltc1qlm0xs36k0xt9gq0e0r6p8we294fqtj9vg0rc86
+
+```
+
+**Bitcoin (BTC):**  
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](#)
+
+```
+
+1GjtW8h6Y2m8Yne86KnNqoduKV2fj48Gzt
+
+```
+
+---
+
+**Ethereum (ETH):**  
+[![Ethereum](https://img.shields.io/badge/Ethereum-6C43F3?style=for-the-badge&logo=ethereum&logoColor=white)](#)
+
+```
+
+0x91ce0E9f685039A72031c6A01d44c9Ba5a210f5c
 
 ```
 
