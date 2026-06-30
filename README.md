@@ -1,11 +1,6 @@
-
-# 👋 Hi, I'm Xeno
-
 <p align="center">
   <img src="https://avm.fourvo.id/custom-ava%20(1).png" width="150" alt="Minecraft Avatar" />
 </p>
-
-<h3 align="center">💻 Developer • ☕ Coffee Coder • 💡 Innovator</h3>
 
 ---
 
