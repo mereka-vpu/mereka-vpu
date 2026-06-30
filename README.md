@@ -7,14 +7,18 @@
 - **Telegram:** [@xenoblock1](https://t.me/xenoblock1)  
 - **Discord:** `6487.`
 - **Bluesky:** `fourvo.id`
+  
+---
 
+> _The arctic will become true_ <br>
+> — *Xeno Block*
 ---
 
 ## 🚀 About Me
 - 🔭 Currently working at **Neon Corporation**
-- 🌱 Learning **Java, PHP, and Python**
-- 💬 Ask me about **How To Become Rich** 😎
-- ⚡ Fun fact: **I can code your brain** 🧠
+- 🌱 Learning **Lua, Go**
+- 💬 Ask me about **How to hardening your goverment server** 😎
+- ⚡ Fun fact: **Telamon make us move from Roblox Developer into Web Developer** 🧠
 
 ---
 
@@ -31,43 +35,6 @@
     <img src="https://img.shields.io/github/followers/XenoBlock?label=Follow&style=social" alt="GitHub followers"/>
   </a>
 </p>
-
----
-
-## 💰 Donate
-
-**Bitcoin Cash (BCH)**  
-```
-
-bitcoincash:qz9ve57vmyjhsqp4g8jqmu42p990r0vajyk3m55kjn
-
-```
-
-**Litecoin (LTC)**  
-```
-
-ltc1qlm0xs36k0xt9gq0e0r6p8we294fqtj9vg0rc86
-
-```
-
-**Bitcoin (BTC)**  
-```
-
-1GjtW8h6Y2m8Yne86KnNqoduKV2fj48Gzt
-
-```
-
-**Ethereum (ETH)**  
-```
-
-0x91ce0E9f685039A72031c6A01d44c9Ba5a210f5c
-
-```
-
----
-
-> _The artic will become true_ <br>
-> — *Xeno Block*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XenoBlock&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
