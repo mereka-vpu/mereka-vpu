@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avm.fourvo.id/custom-ava%20(1).png" width="150" alt="Minecraft Avatar" />
-</p>
+![Header](./github-header-banner.png)
 
 ---
 
@@ -68,9 +66,8 @@ ltc1qlm0xs36k0xt9gq0e0r6p8we294fqtj9vg0rc86
 
 ---
 
-## 🧠 Fun Zone
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
+> _The artic will become true_ <br>
+> — *Xeno Block*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XenoBlock&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
